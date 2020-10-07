@@ -155,3 +155,9 @@ a:hover {
   background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
   text-decoration: none;
 }
+
+@media screen and (max-width: 900px) {
+  body {
+    text-align: center;
+  }
+}
