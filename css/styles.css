@@ -156,8 +156,3 @@ a:hover {
   text-decoration: none;
 }
 
-@media screen and (max-width: 900px) {
-  body {
-    text-align: center;
-  }
-}
